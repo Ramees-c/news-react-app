@@ -1,9 +1,10 @@
+import NewsApp from "./Components/NewsApp/NewsApp";
 
 
 function App() {
   return (
     <div>
-      app
+      <NewsApp/>
     </div>
   );
 }
